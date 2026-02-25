@@ -17,8 +17,9 @@ Zaawansowany system konwersacyjny oparty na sztucznej inteligencji, pełniący r
 
 <details>
   <summary><strong>▶️ Posłuchaj nagrania z rozmowy (Umówienie wizyty)</strong></summary>
+  _Dźwięk asystentki ma trochę gorszą jakość z powodu transferu połączenia na komputer._
   <br>
-  link
+  [link](https://youtu.be/LoqhePwOwRM)
 </details>
 
 <details>
