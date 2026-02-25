@@ -17,9 +17,12 @@ Zaawansowany system konwersacyjny oparty na sztucznej inteligencji, pełniący r
 
 <details>
   <summary><strong>▶️ Posłuchaj nagrania z rozmowy (Umówienie wizyty)</strong></summary>
-  _Dźwięk asystentki ma trochę gorszą jakość z powodu transferu połączenia na komputer._
   <br>
-  [link](https://youtu.be/LoqhePwOwRM)
+  <em>* Dźwięk asystentki ma trochę gorszą jakość z powodu transferu połączenia na komputer.</em>
+  <br><br>
+  <a href="https://youtu.be/LoqhePwOwRM" target="_blank">
+    <img src="https://img.youtube.com/vi/LoqhePwOwRM/0.jpg" alt="Nagranie z rozmowy - Demo" width="600" style="border-radius: 8px;">
+  </a>
 </details>
 
 <details>
