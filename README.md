@@ -21,7 +21,7 @@ Zaawansowany system konwersacyjny oparty na sztucznej inteligencji, pełniący r
   <em>* Dźwięk asystentki ma trochę gorszą jakość z powodu transferu połączenia na komputer.</em>
   <br><br>
   <a href="https://youtu.be/LoqhePwOwRM" target="_blank">
-    <img src="https://img.youtube.com/vi/LoqhePwOwRM/0.jpg" alt="Nagranie z rozmowy - Demo" width="600" style="border-radius: 8px;">
+     <h3>Nagranie z rozmowy - Demo</h3>
   </a>
 </details>
 
