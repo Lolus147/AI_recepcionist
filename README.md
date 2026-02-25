@@ -57,5 +57,4 @@ Projekt wymagał precyzyjnej orkiestracji kilku potężnych narzędzi:
 * **Formatowanie danych (Data Normalization):** Numery dyktowane przez pacjentów są transformowane i normalizowane przed przesłaniem do n8n, aby zagwarantować spójne wyszukiwanie w kalendarzu.
 
 ---
-**Zaprojektowane i wdrożone przez:** Paweł Zajczyk
-[LinkedIn] | [Portfolio] | [Email]
+**Zaprojektowane i wdrożone przez:**_ **Paweł** **Zajczyk**_ 📧 pawelzajczyk8@gmail.com
